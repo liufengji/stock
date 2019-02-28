@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mysql/Stock_FULL/Stock_FULL.iml" filepath="$PROJECT_DIR$/mysql/Stock_FULL/Stock_FULL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oracle/Stock_FULL_oracle/Stock_FULL_oracle.iml" filepath="$PROJECT_DIR$/oracle/Stock_FULL_oracle/Stock_FULL_oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql/Stock_ljl/Stock_ljl.iml" filepath="$PROJECT_DIR$/mysql/Stock_ljl/Stock_ljl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oracle/Stock_ljl_oracle/Stock_ljl_oracle.iml" filepath="$PROJECT_DIR$/oracle/Stock_ljl_oracle/Stock_ljl_oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mysql/mysql.iml" filepath="$PROJECT_DIR$/mysql/mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oracle/oracle.iml" filepath="$PROJECT_DIR$/oracle/oracle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stock.iml" filepath="$PROJECT_DIR$/stock.iml" />
+    </modules>
+  </component>
+</project>

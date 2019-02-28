@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Stock_FULL" />
+        <module name="Stock_FULL_oracle" />
+        <module name="Stock_ljl" />
+        <module name="Stock_ljl_oracle" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mysql" target="1.8" />
+      <module name="oracle" target="1.8" />
+      <module name="stock" target="1.8" />
+      <module name="Stock_FULL" target="1.8" />
+      <module name="Stock_FULL_oracle" target="1.8" />
+      <module name="Stock_ljl" target="1.8" />
+      <module name="Stock_ljl_oracle" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
